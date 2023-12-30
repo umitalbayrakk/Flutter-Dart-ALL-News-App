@@ -1,16 +1,24 @@
-# newsapp
 
-A new Flutter project.
+# ALL NEWS APP
 
-## Getting Started
+The front-end UI side of the application was coded with Flutter, and the back-end Dart programming language was used.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Splash Screen](https://r.resimlink.com/VuQ0NT.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Home Page](https://r.resimlink.com/Xh5FmON.png)
+
+
+
+![Categories](https://r.resimlink.com/UCmo3SAQVs4N.png)
+
+
+
+![General](https://r.resimlink.com/zQHi5JkE.png)
+
+
+
+![Trending News](https://r.resimlink.com/TSCMtpFK8i6.png)
+
